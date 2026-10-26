@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://brown1023.github.io/api-llm-sin-censura-latam/sitemap.xml
+
+# API de LLM sin censura para LATAM — compatible con OpenAI
+# API de modelo de lenguaje sin filtro ideológico para desarrolladores de LATAM. Compatible con OpenAI, base https://uncensored-llm.sbs/v1, streaming, tool calling y salida en español neutro.
